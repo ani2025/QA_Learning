@@ -1,0 +1,1 @@
+Write a program that computes and prints the result o (512-282)/(47*48+5).It is roughly 0.1017.
