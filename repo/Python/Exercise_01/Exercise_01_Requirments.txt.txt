@@ -1,0 +1,10 @@
+Print a box like the one below.
+
+a.	Using one with one print function.
+b.	Using four statement with one print function.
+c.	Using four statement with four print function.
+
+	*******************
+	*******************
+	*******************
+	*******************
