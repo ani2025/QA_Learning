@@ -1,0 +1,10 @@
+	Print a triangle like the one below.
+
+a.	Using one statement with one print function.
+b.	Using four statement with one print function.
+c.	Using four statement with four print function.
+
+	*
+	**
+	***
+	****
